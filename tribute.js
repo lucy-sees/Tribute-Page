@@ -1,1 +1,1 @@
-
+const MyProject = 'tribute-page';
